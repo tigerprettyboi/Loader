@@ -1,7 +1,7 @@
-if game.PlaceId == 10424713277 then
+if game.PlaceId == 14940775218 then
     
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OxygenzHub/Sometown/refs/heads/main/404", true))()
-elseif game.PlaceId == 14940775218 then
+elseif game.PlaceId == 286090429 then
   
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OxygenzHub/Arcade/refs/heads/main/404", true))()
 else
