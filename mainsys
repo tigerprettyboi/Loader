@@ -1,9 +1,9 @@
 if game.PlaceId == 14940775218 then
     
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/OxygenzHub/Sometown/refs/heads/main/404", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/tigerprettyboi/Arcade/refs/heads/main/Alt.lua", true))()
 elseif game.PlaceId == 286090429 then
   
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/OxygenzHub/Arcade/refs/heads/main/404", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/tigerprettyboi/Arsenal/refs/heads/main/Alt.lua", true))()
 else
     game.Players.LocalPlayer:Kick("ไม่มีแมพนี้ใน Project")
 end
